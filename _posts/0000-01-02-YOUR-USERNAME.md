@@ -2,6 +2,7 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-your test
+give it your best shot
+
 use the left arrow to go back!
 
